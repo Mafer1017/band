@@ -8,3 +8,7 @@
   color: green;
   background-color: yellow;
 }
+.column {
+  width: 300px;
+  float: left;
+}

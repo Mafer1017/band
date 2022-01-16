@@ -12,3 +12,6 @@
   width: 300px;
   float: left;
 }
+.my-class {
+  border: 2px solid green;
+}
